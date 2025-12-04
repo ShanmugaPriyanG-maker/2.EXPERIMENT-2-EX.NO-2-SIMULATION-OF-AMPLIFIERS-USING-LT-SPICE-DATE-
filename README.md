@@ -37,7 +37,7 @@ DATE:
 
 PASTE THE CIRCUIT HERE
 ---
-
+![20251203_215417](https://github.com/user-attachments/assets/2bfb231c-8add-44ea-9c85-0c7b499b2459)
 
 ---
 ## OUTPUT WAVEFORM AND DISCUSSION 
