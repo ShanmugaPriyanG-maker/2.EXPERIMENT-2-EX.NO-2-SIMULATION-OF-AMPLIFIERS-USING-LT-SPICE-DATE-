@@ -60,15 +60,20 @@ PASTE THE OUTPUT WAVEFORM HERE
 4.## CIRCUIT DIAGRAM - INSTRUMENTATION AMPLIFIER
 
 PASTE THE CIRCUIT HERE
+![20251203_224050](https://github.com/user-attachments/assets/285c43c4-62d6-4057-a771-2ebabe1ebca5)
+<img width="2880" height="1716" alt="Screenshot 2025-12-03 152619" src="https://github.com/user-attachments/assets/d683e17a-973f-4c72-8bd5-2dcb5e6fdc9c" />
+
 ---
-
-
-
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
 PASTE THE OUTPUT WAVEFORM HERE
+<img width="2870" height="736" alt="Screenshot 2025-12-03 151805" src="https://github.com/user-attachments/assets/29d91c1c-1471-4242-a4a3-b4b0296d067d" />
+
 ---
 
 ## RESULT
+![20251203_215455](https://github.com/user-attachments/assets/8d2325ce-21cc-4427-8e69-6f3867975b1f)
+![20251203_224056](https://github.com/user-attachments/assets/b51ec084-c085-49ad-b839-0829be8f075c)
+
 Thus, the Inverting,Non-Inverting, Differential, and Instrumentation Amplifiers were designed and their performance successfully tested using LT-SPICE.
 ---
