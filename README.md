@@ -41,11 +41,14 @@ PASTE THE CIRCUIT HERE
 <img width="2880" height="800" alt="Screenshot 2025-12-03 153235" src="https://github.com/user-attachments/assets/1ee01236-6dd5-4ef4-94d3-115f01b07929" />
 
 ---
+
 ## OUTPUT WAVEFORM AND DISCUSSION 
 <img width="2880" height="926" alt="Screenshot 2025-12-03 153235" src="https://github.com/user-attachments/assets/71fa1547-6528-4ee7-a319-d7f0c5c26cef" />
 
 ---
-3.## CIRCUIT DIAGRAM - DIFFERENTIAL AMPLIFIER 
+
+3.## CIRCUIT DIAGRAM - DIFFERENTIAL AMPLIFIER
+
 ![20251203_215432](https://github.com/user-attachments/assets/cd268490-c329-4e5f-b105-3b0d449d44df)
 <img width="2880" height="821" alt="Screenshot 2025-12-03 153841" src="https://github.com/user-attachments/assets/f06e217c-c947-4888-82a0-d5f535635641" />
 
@@ -54,12 +57,15 @@ PASTE THE CIRCUIT HERE
 ## OUTPUT WAVEFORM AND DISCUSSION 
 
 PASTE THE OUTPUT WAVEFORM HERE
+
 <img width="2880" height="919" alt="Screenshot 2025-12-03 153841" src="https://github.com/user-attachments/assets/af2dff8d-10c5-45e4-9e5a-7c958b848582" />
 
 ---
+
 4.## CIRCUIT DIAGRAM - INSTRUMENTATION AMPLIFIER
 
 PASTE THE CIRCUIT HERE
+
 ![20251203_224050](https://github.com/user-attachments/assets/285c43c4-62d6-4057-a771-2ebabe1ebca5)
 <img width="2880" height="1716" alt="Screenshot 2025-12-03 152619" src="https://github.com/user-attachments/assets/d683e17a-973f-4c72-8bd5-2dcb5e6fdc9c" />
 
@@ -67,11 +73,13 @@ PASTE THE CIRCUIT HERE
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
 PASTE THE OUTPUT WAVEFORM HERE
+
 <img width="2870" height="736" alt="Screenshot 2025-12-03 151805" src="https://github.com/user-attachments/assets/29d91c1c-1471-4242-a4a3-b4b0296d067d" />
 
 ---
 
 ## RESULT
+
 ![20251203_215455](https://github.com/user-attachments/assets/8d2325ce-21cc-4427-8e69-6f3867975b1f)
 ![20251203_224056](https://github.com/user-attachments/assets/b51ec084-c085-49ad-b839-0829be8f075c)
 
